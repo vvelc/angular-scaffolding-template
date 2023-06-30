@@ -1,0 +1,1 @@
+# angular-scafolding-template
